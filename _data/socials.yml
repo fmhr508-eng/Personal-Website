@@ -1,17 +1,18 @@
 
 cv_pdf: /assets/pdf/example_pdf.pdf
-email: fmhr508@gmail.com
+
 
 # ۱. گوگل اسکالر (فقط آیدی ۱۲ کاراکتری)
-scholar_userid: 97z97cUAAAAJ
-
-# ۲. لینکدین (اصلاح‌شده بر اساس مستندات: linkedin_username)
-linkedin_username: mehrabii
+scholar_userid: sMO1fjQAAAAJ&hl
 
 # ۳. ریسرچ‌گیت (اصلاح‌شده بر اساس مستندات: به عنوان یک پلتفرم پیش‌فرض و نیتیو)
 research_gate_profile: Farhad-Mehrabi-4
 
+# ۲. لینکدین (اصلاح‌شده بر اساس مستندات: linkedin_username)
+linkedin_username: mehrabii
+
 # ۴. ارکید (اگر بعداً خواستید فعال کنید، علامت # را بردارید و آیدی عددی را بگذارید)
 orcid_id: 0009-0009-6995-3292
 
+email: fmhr508@gmail.com
 
