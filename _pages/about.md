@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: ~
+title: ~
 permalink: /
 subtitle: Prospective Phd Student
 
