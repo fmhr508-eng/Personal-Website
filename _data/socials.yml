@@ -1,17 +1,17 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
-cv_pdf: /assets/pdf/example_pdf.pdf # مسیر فایل رزومه شما
+cv_pdf: /assets/pdf/example_pdf.pdf
 email: fmhr508@gmail.com
-scholar_userid: https://scholar.google.com/citations?hl=en&user=97z97cUAAAAJ
-linkedin: https://ir.linkedin.com/in/mehrabii
-orcid_id: https://orcid.org/
 
-rss_icon: false # روی false گذاشتم تا آیکون خروجی فید مزاحم پنهان شود
+# ۱. گوگل اسکالر (فقط آیدی ۱۲ کاراکتری)
+scholar_userid: 97z97cUAAAAJ
 
-# بخش اختصاصی برای ریسرچ‌گیت و سایر لینک‌های دلخواه شما
-custom_socials:
-  - title: ResearchGate
-    url: https://www.researchgate.net/profile/Farhad-Mehrabi
-    icon: ai ai-researchgate # این کد خودکار لوگوی ریسرچ‌گیت را لود می‌کند
+# ۲. لینکدین (اصلاح‌شده بر اساس مستندات: linkedin_username)
+linkedin_username: mehrabii
+
+# ۳. ریسرچ‌گیت (اصلاح‌شده بر اساس مستندات: به عنوان یک پلتفرم پیش‌فرض و نیتیو)
+research_gate_profile: Farhad-Mehrabi-4
+
+# ۴. ارکید (اگر بعداً خواستید فعال کنید، علامت # را بردارید و آیدی عددی را بگذارید)
+orcid_id: 0009-0009-6995-3292
+
+rss_icon: false
